@@ -20,7 +20,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "订阅"
+    url: "https://rose03xing.77884868.xyz/api/v1/client/subscribe?token=9b0f2c894400d558cf093c08ac7aae4d"
     override:
       skip-cert-verify: true
       udp: true
