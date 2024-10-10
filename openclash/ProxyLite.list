@@ -1,8 +1,8 @@
 # 代理补充列表
 
 # 域名后缀匹配
-+.qichiyu.com
-+.raw.githubusercontent.com
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # 域名匹配
 # DOMAIN,pqjc.site
