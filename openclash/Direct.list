@@ -2,10 +2,10 @@
 
 # MyList
 # 域名后缀匹配
-+.time.windows.com
-+.lanzov.com
-+.hao123.com
-+.iptv.b2og.com
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,iptv.b2og.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,baidu
