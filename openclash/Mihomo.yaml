@@ -12,7 +12,16 @@ proxy-providers:
       interval: 300
     proxy: 🟢 直连
     url: "https://v1.mk/MNaeraS"
-  
+  Airport_02:
+    type: http
+    interval: 1800
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+    url: " "  
+    
     override:
       skip-cert-verify: true
       udp: true
